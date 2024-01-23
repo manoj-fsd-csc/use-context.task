@@ -1,0 +1,32 @@
+*{
+  background-color: white;
+}
+
+.container {
+  margin-left: 12%;
+}
+
+.card {
+  cursor: pointer;
+  padding: 2%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+ 
+}
+
+#buy {
+  margin-left: 80%;  
+  width: 5vw;
+}
+
+#quantity {
+  width: 10%;
+  margin-left: 20%;
+}
+
+#title {
+  width: 38%;
+}
+
+#description {
+  width: 55%;
+}
